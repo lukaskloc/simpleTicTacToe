@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe (Java)/task/build/
+/Simple Tic-Tac-Toe (Java)/task/out/
+/Simple Tic-Tac-Toe (Java)/task/out/production/classes/
+/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/out/
+/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/out/production/classes/
+/Topics/Break and continue. Branching/The integer barrier/out/
+/Topics/Break and continue. Branching/The integer barrier/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/production/classes/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/production/classes/
+/Topics/Multiple conditions  switch/Shape/out/
+/Topics/Multiple conditions  switch/Shape/out/production/classes/

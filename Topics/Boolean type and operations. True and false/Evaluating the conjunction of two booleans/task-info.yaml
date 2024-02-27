@@ -1,0 +1,30 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              // Initialize Scanner object to read the input
+              Scanner in = new Scanner(System.in);
+      
+              // Read two boolean inputs
+              boolean bool1 = in.nextBoolean();
+              boolean bool2 = in.nextBoolean();
+      
+              // Logic to find the AND operation of 2 booleans goes here
+      
+              // Close the scanner
+              in.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41026#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 26 Feb 2024 21:19:25 UTC"
+record: -1
+submission_language: java17

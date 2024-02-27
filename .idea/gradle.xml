@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Declaring boolean variables" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Logical operations" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Statement for skipping an iteration" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The same results" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Check if an array is sorted ascending" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Creating a digit to word conversion program" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Creating a weekday converter for calendar app" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Rewriting code using switch" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Advantages of switch expressions" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Making it compile" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
